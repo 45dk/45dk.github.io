@@ -3451,7 +3451,7 @@ h6 {
   }
 
   .header_area .navbar {
-    background: #000;
+    background: #000000;
   }
 
   .navbar-toggler[aria-expanded=false] span:nth-child(2) {
@@ -3478,7 +3478,7 @@ h6 {
     display: block;
     width: 25px;
     height: 3px;
-    background: #fff;
+    background: #ff0000;
     margin: auto;
     margin-bottom: 4px;
     transition: all 400ms linear;
